@@ -1,4 +1,4 @@
-# FLAPPY_GIORDAN
+# FLAPPY GIORDAN
 
 INTRO: 
 Flappy Giordan is a reinterpretation of the historical videogame "Flappy Bird".
